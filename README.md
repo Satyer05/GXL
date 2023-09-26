@@ -1,2 +1,2 @@
 # GXL
-Scopri, gioca, divertiti! Applicazione per conoscere tutte le info su un determinatogioco, le guide per superare livelli, trovare gente nuova con cui giocare e tanto altro
+La mia applicazione si pone i problemi più comuni per i videogiocatori come non riuscere a superare un livello, non trovare un determinato oggetto... inoltre offre anche tutte le informazioni riguardanti un determinato gioco (Giga occupati, data di uscita, requisiti minimi, durata media del gameplay...) e, se il gioco è multigiocatore, offre anche uno spazio dedicato alle chat dove poter cercare persone a cui servono giocatori in più. Un'altra cosa che ti permette è vedere il progresso/statistiche di un determinato giocatore.
