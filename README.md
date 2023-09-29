@@ -1,9 +1,48 @@
 # GXL
-La mia applicazione si basa sul mondo videoludico; un'applicazione che contiene tutte le informazioni dei videogiochi più famosi e tanto altro.
-I problemi che l'applicazione si pone sono i più comuni: non riuscire a superare un livello, non trovare un determinato oggetto, non avere qualcuno con cui giocare…
-L’applicazione perciò vedrà prima di tutto il login con la propria mail e password e poi collegare il proprio account (Fortnite, PSN, R6…).
-Ci sarà una sezione in cui potrai selezionare il gioco che ti interessa o a cui stai giocando e vedere tutte le persone che sono online su esso, potrai vedere le loro informazioni comuni (KD, da quanto tempo sta giocando, quando ha installato per la prima volta…) e potrai anche avvalerti di una chat per trovare nuovi amici con gli stessi gusti videoludici.
-Ci sarà anche una sezione sulle varie informazioni, come quanti Giga occupa, i requisiti minimi, quando usciranno le patch/season… ed una sezione dove ci saranno i tutorial per superare un determinato livello, per trovare un determinato oggetto…
-Se vuoi diventare più forte ad un videogioco troverai anche delle guide, le migliori guide, che ti aiuteranno a migliorare ed a raggiungere la vetta.
-Per finire ci sarà anche una sezione dedicata alla “condivisione”: ognuno potrà condividere le sue opinioni su aggiornamenti, missioni, gradimento… di un determinato gioco, con anche un filtro “spoiler” che, in un gioco single player, nasconderà le conversazioni del punto in cui non sei arrivato.
+La mia applicazione si basa sul mondo videoludico; un'applicazione che contiene tutte le informazioni dei videogiochi più famosi ed i loro problemi!
+I problemi che mi sono posto sono i più comuni e che mi ritrovo ad affrontare anche io: non riuscire a superare un livello, non trovare un determinato oggetto per migliorare il livello/l'equipaggiamento, non avere amici online con cui giocare, non sapere le statistiche dei giocatori,non riuscire a migliorare.
+
+Requisiti applicazione:
+
+  Registrazione:
+
+    * Gli utenti, appena scaricata l’applicazione, si troveranno la classica schermata di registrazione dove inseriranno la propria email e password, con possibilità di cambiarla in caso di dimenticanza.
+    * Ci sarà la possibilità di attivare anche l’autenticazione a due fattori, ovvero aggiungere una sicurezza in più per proteggere il tuo account.
+
+  Profilo:
+    * Gli utenti potranno personalizzare il loro profilo cambiando le proprie informazioni come il nome e cognome, la propria immagine profilo, lo stato “online, assente, offline”, la password, la mail.
+    * Ogni utente potrà vedere tutte le sue statistiche, sia dei giochi online (come Fortnite, Rainbow Six Siege, Call of Duty…) sia dei giochi offline (The Last of Us, Spiderman, Uncharted…).
+ 
+  Collegamento degli account:
+    * L’utente dovrà collegare i propri account (account PlayStation, account Fortnite, account Xbox…).
+    * In questo modo potrà rendere visibile la propria attività ad altri utenti.
+  
+  Selezione:
+    * L’utente potrà selezionare un gioco a cui è interessato e “fissarlo”, metterlo nei preferiti per vederlo ogni volta senza doverlo selezionare.
+    * In questo modo, dopo aver selezionato il gioco/i giochi l'utente potrà vedere tutti gli altri utenti che al momento ci stanno giocando e vedere il loro stato di avanzamento.
+  
+  Informazioni utente:
+    * Dopo aver selezionato il gioco l’utente vedrà tutte le statistiche di chi è online su quel gioco, come il KD ( uccisioni per morti), da quando ha iniziato la sessione di gioco, quando l’ha installato la prima volta…
+    * Inoltre l'utente potrà inviare una richiesta d'amicizia. 
+ 
+  Chat:
+    * Dopo aver stretto amicizia, l'utente avrà l’accesso ad una chat dove potrà scriversi o stare in chiamata con l’altro utente.
+  
+  Informazioni gioco:
+    * Ci sarà anche una sezione dedicata a tutte le informazioni del gioco desiderato, come quanto spazio occupa, quali sono i requisiti minimi, quando è uscito.
+  
+  Guide:
+    * Saranno disponibili anche guide per superare un determinato livello o trovare un oggetto che ti potenzierà l’equipaggiamento.
+    * Queste potranno essere caricate da chiunque riesca a superare/trovare e potranno essere valutate con un like o dislike.
+  
+  Coaching:
+    * Per quanto riguarda i giochi multiplayer come Fortnite, Rainbow Six Siege, Apex… saranno disponibili delle “lezioni” sotto forma di video oppure “dal vivo” per aiutare l’utente ad acquisire più abilità.
+  
+  Condivisioni:
+    * Ci sarà anche una sezione stile home page di Instagram dove ognuno potrà condividere foto/video di ciò che è riuscito a fare, come trickshot, speedrun… o semplicemente per chi vuole discutere su un gioco.
+    * Inoltre ci sarà un tasto Spoiler che nasconderà le immagini/video che non sono ancora state raggiunte dall’utente (livelli non ancora superati, oggetti non scoperti…)
+ 
+  Abbonamenti:
+    * Ci saranno tre tipi di abbonamenti: Normale, Extra e Premium, che permettono di sbloccare più funzionalità.
+    * Questi abbonamenti saranno sia mensili, che annuali, con la possibilità di selezionare quanti mesi o anni si vuole.
 
