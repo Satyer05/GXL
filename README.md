@@ -8,7 +8,7 @@ Requisiti applicazione:
 
     * Gli utenti, appena scaricata l’applicazione, si troveranno la classica schermata di registrazione dove inseriranno la propria email e password, con possibilità di cambiarla in caso di dimenticanza.
     * Ci sarà la possibilità di attivare anche l’autenticazione a due fattori, ovvero aggiungere una sicurezza in più per proteggere il tuo account.
-<img src="http://yuml.me/diagram/scruffy/usecase/[Utente]-(Accesso)" "(Accesso)<(Autenticazione a due fattori)">
+<img src="http://yuml.me/diagram/scruffy/usecase/[Utente]-(Accesso)" >
   Profilo:
     * Gli utenti potranno personalizzare il loro profilo cambiando le proprie informazioni come il nome e cognome, la propria immagine profilo, lo stato “online, assente, offline”, la password, la mail.
     * Ogni utente potrà vedere tutte le sue statistiche, sia dei giochi online (come Fortnite, Rainbow Six Siege, Call of Duty…) sia dei giochi offline (The Last of Us, Spiderman, Uncharted…).
