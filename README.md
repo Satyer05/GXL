@@ -21,14 +21,14 @@ Requisiti applicazione:
   Selezione:
     * L’utente potrà selezionare un gioco a cui è interessato e “fissarlo”, metterlo nei preferiti per vederlo ogni volta senza doverlo selezionare.
     * In questo modo, dopo aver selezionato il gioco/i giochi l'utente potrà vedere tutti gli altri utenti che al momento ci stanno giocando e vedere il loro stato di avanzamento.
-  
+  <img src="http://yuml.me/diagram/scruffy/usecase/[Utente]-(Accesso), (Accesso)<(Cerca e fissa giochi), (Cerca e fissa giochi)>(Vedere utenti online), [Sistema GXL]-(Prendere profili), (Prendere profili)-(Vedere utenti online)"> 
   Informazioni utente:
-    * Dopo aver selezionato il gioco l’utente vedrà tutte le statistiche di chi è online su quel gioco, come il KD ( uccisioni per morti), da quando ha iniziato la sessione di gioco, quando l’ha installato la prima volta…
+    * L’utente potrà cercarne un altro e vedrà tutte le statistiche di chi è online su un determinato gioco, come il KD ( uccisioni per morti), da quando ha iniziato la sessione di gioco, quando l’ha installato la prima volta…
     * Inoltre l'utente potrà inviare una richiesta d'amicizia. 
  
   Chat:
     * Dopo aver stretto amicizia, l'utente avrà l’accesso ad una chat dove potrà scriversi o stare in chiamata con l’altro utente.
-  
+  <img src="http://yuml.me/diagram/scruffy/usecase/[Utente]-(Accesso), (Accesso)<(Cerca utenti), (Cerca utenti)<(Richiesta amicizia)"> 
   Informazioni gioco:
     * Ci sarà anche una sezione dedicata a tutte le informazioni del gioco desiderato, come quanto spazio occupa, quali sono i requisiti minimi, quando è uscito.
   
