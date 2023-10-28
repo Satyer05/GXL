@@ -5,21 +5,21 @@ I problemi che mi sono posto sono i più comuni e che mi ritrovo ad affrontare a
 Requisiti applicazione:
 <details>
   <summary>Registrazione:</summary>
-
+  -Requisiti Funzionali Utente
     - Gli utenti, appena scaricata l’applicazione, si troveranno la classica schermata di registrazione dove inseriranno la propria email e password, con possibilità di cambiarla in caso di dimenticanza.
     - Ci sarà la possibilità di attivare anche l’autenticazione a due fattori, ovvero aggiungere una sicurezza in più per proteggere il tuo account.
  </details>     
   <img src="http://yuml.me/diagram/scruffy/usecase/[Utente]-(Accesso), (Accesso)<(Autenticazione a due fattori)"> 
   <details>
   <summary>Profilo:</summary>
-  
+  -Requisiti Funzionali Utente
     - Gli utenti potranno personalizzare il loro profilo cambiando le proprie informazioni come il nome e cognome, la propria immagine profilo, lo stato “online, assente, offline”, la password, la mail.
     - Ogni utente potrà vedere tutte le sue statistiche, sia dei giochi online (come Fortnite, Rainbow Six Siege, Call of Duty…) sia dei giochi offline (The Last of Us, Spiderman, Uncharted…).
    </details> 
   <img src="http://yuml.me/diagram/scruffy/usecase/[Utente]-(Accesso), (Accesso)<(Modifica profilo), (Accesso)<(Vedere statistiche)">
  <details>
   <summary>Collegamento degli account:</summary>
-  
+  -Requisiti Funzionali Utente
     - L’utente dovrà collegare i propri account (account PlayStation, account Fortnite, account Xbox…).
     - In questo modo potrà rendere visibile la propria attività ad altri utenti.
   </details>
