@@ -134,7 +134,7 @@ Requisiti applicazione:
 <summary>Usabilità:</summary>
 L'applicazione deve essere intuitiva e facile da usare per gli utenti.
 </details>
-</details>
+<details>
 <summary>Disponibilità:</summary>
 Il sistema deve essere disponibile e accessibile in modo affidabile.
 </details>
