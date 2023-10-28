@@ -35,7 +35,7 @@ Requisiti applicazione:
   Guide:
     * Saranno disponibili anche guide per superare un determinato livello o trovare un oggetto che ti potenzierà l’equipaggiamento.
     * Queste potranno essere caricate da chiunque riesca a superare/trovare e potranno essere valutate con un like o dislike.
-  <img src="http://yuml.me/diagram/scruffy/usecase/[Utente]-(Accesso), (Accesso)<(Cerca e fissa giochi), (Cerca e fissa giochi)>(Tutorial)" >
+  <img src="http://yuml.me/diagram/scruffy/usecase/[Utente]-(Accesso), (Accesso)<(Cerca giochi), (Cerca e fissa giochi)>(Tutorial)" >
   Coaching:
     * Per quanto riguarda i giochi multiplayer come Fortnite, Rainbow Six Siege, Apex… saranno disponibili delle “lezioni” sotto forma di video oppure “dal vivo” per aiutare l’utente ad acquisire più abilità.
   
