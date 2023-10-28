@@ -139,3 +139,22 @@ Requisiti applicazione:
 -Il sistema deve essere disponibile e accessibile in modo affidabile.
 </details>
 </details>
+<summary>Requisiti Dominio</summary>
+ <br>
+ <details>
+<summary>Giochi Multiplayer e Singleplayer:</summary>
+-L'applicazione copre sia giochi multiplayer che singleplayer.
+</details>
+<details>
+<summary>Comunità di Giocatori:</summary>
+-L'applicazione crea una comunità in cui gli utenti possono interagire, scambiare esperienze di gioco e aiutarsi reciprocamente.
+</details>
+<details>
+<summary>Risorse di Gioco:</summary>
+-L'applicazione fornisce informazioni sui giochi, guide e risorse educative per migliorare le abilità di gioco.
+</details>
+<details>
+<summary>Abbonamenti Premium:</summary>
+-L'applicazione offre opzioni di abbonamento premium per gli utenti interessati a funzionalità aggiuntive.
+</details>
+</details>
