@@ -38,12 +38,12 @@ Requisiti applicazione:
   <img src="http://yuml.me/diagram/scruffy/usecase/[Utente]-(Accesso), (Accesso)<(Cerca giochi), (Cerca giochi)>(Tutorial)" >
   Coaching:
     * Per quanto riguarda i giochi multiplayer come Fortnite, Rainbow Six Siege, Apex… saranno disponibili delle “lezioni” sotto forma di video oppure “dal vivo” per aiutare l’utente ad acquisire più abilità.
-  
+  <img src="http://yuml.me/diagram/scruffy/usecase/[Utente]-(Accesso), (Accesso)<(Cerca giochi), (Cerca giochi)>(Coaching)" >
   Condivisioni:
     * Ci sarà anche una sezione stile home page di Instagram dove ognuno potrà condividere foto/video di ciò che è riuscito a fare, come trickshot, speedrun… o semplicemente per chi vuole discutere su un gioco.
     * Inoltre ci sarà un tasto Spoiler che nasconderà le immagini/video che non sono ancora state raggiunte dall’utente (livelli non ancora superati, oggetti non scoperti…)
- 
+  <img src="http://yuml.me/diagram/scruffy/usecase/[Utente]-(Accesso), (Accesso)>(Sezione di condivisione)" >
   Abbonamenti:
-    * Ci saranno tre tipi di abbonamenti: Normale, Extra e Premium, che permettono di sbloccare più funzionalità.
-    * Questi abbonamenti saranno sia mensili, che annuali, con la possibilità di selezionare quanti mesi o anni si vuole.
-
+    * Ci sarà un abbonameno Premium, che permetterà di sbloccare più funzionalità.
+    * Questo abbonamento sarà sia mensile, che annuale, con la possibilità di selezionare quanti mesi o anni si vuole.
+  <img src="http://yuml.me/diagram/scruffy/usecase/[Utente]-(Accesso),(Accesso)<(Premium),(Premium)>(Aggiungi carta),(Premium)>(Scegli il piano),(Premium)>(Paga),[Banca]-(Elaborazione),(Elaborazione)>(Invia risultato di conferma),[Sistema GXL]-(Attiva Premium)" >
