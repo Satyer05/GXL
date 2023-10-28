@@ -9,6 +9,9 @@ Requisiti applicazione:
  <br>
 - Gli utenti, appena scaricata l’applicazione, si troveranno la classica schermata di registrazione dove inseriranno la propria email e password, con possibilità di cambiarla in caso di dimenticanza.<br>
 - Ci sarà la possibilità di attivare anche l’autenticazione a due fattori, ovvero aggiungere una sicurezza in più per proteggere il tuo account.
+ *  Requisti Funzionali Sistema<br>
+ <br>
+ - Gestione accesso, registrazione, reset password e autenticazione a due fattori.
 </details>     
 <img src="http://yuml.me/diagram/scruffy/usecase/[Utente]-(Accesso), (Accesso)<(Autenticazione a due fattori)"> 
 <details>
@@ -17,6 +20,9 @@ Requisiti applicazione:
  <br>
 - Gli utenti potranno personalizzare il loro profilo cambiando le proprie informazioni come il nome e cognome, la propria immagine profilo, lo stato “online, assente, offline”, la password, la mail.
 - Ogni utente potrà vedere tutte le sue statistiche, sia dei giochi online (come Fortnite, Rainbow Six Siege, Call of Duty…) sia dei giochi offline (The Last of Us, Spiderman, Uncharted…).
+  *  Requisti Funzionali Sistema<br>
+ <br>
+ -Gestione modifiche apportate al profilo.
 </details> 
 <img src="http://yuml.me/diagram/scruffy/usecase/[Utente]-(Accesso), (Accesso)<(Modifica profilo), (Accesso)<(Vedere statistiche)">
 <details>
@@ -25,6 +31,9 @@ Requisiti applicazione:
  <br>
 - L’utente dovrà collegare i propri account (account PlayStation, account Fortnite, account Xbox…).
 - In questo modo potrà rendere visibile la propria attività ad altri utenti.
+  *  Requisti Funzionali Sistema<br>
+ <br>
+ -Supporto per collegamento e sincronizzazzione degli account dei giochi.
 </details>
 <img src="http://yuml.me/diagram/scruffy/usecase/[Utente]-(Accesso), (Accesso)>(Collegare account esterni), [Sistema GXL]-(Collegare account esterni)"> 
 <details>
@@ -39,8 +48,11 @@ Requisiti applicazione:
 <summary>Informazioni utente:</summary>
  *  Requisti Funzionali Utente<br>
  <br>
-- L’utente potrà cercarne un altro e vedrà tutte le statistiche di chi è online su un determinato gioco, come il KD ( uccisioni per morti), da quando ha iniziato la sessione di gioco, quando l’ha installato la prima volta…
-- Inoltre l'utente potrà inviare una richiesta d'amicizia. 
+- L’utente potrà cercarne un altro e vedrà tutte le sue statistiche, come il KD ( uccisioni per morti), da quando ha iniziato la sessione di gioco, quando l’ha installato la prima volta… e anche a che giochi sta giocando al momento
+- Inoltre l'utente potrà inviare una richiesta d'amicizia.
+  *  Requisti Funzionali Sistema<br>
+ <br>
+ -Raccolta di informazioni pubbliche di altri utenti
 </details>
 <img src="http://yuml.me/diagram/scruffy/usecase/[Utente]-(Accesso), (Accesso)<(Cerca utenti), (Cerca utenti)<(Richiesta amicizia),(Richiesta amicizia)>(Vedere statistiche)">
 <details>
@@ -48,6 +60,9 @@ Requisiti applicazione:
  *  Requisti Funzionali Utente<br>
  <br>
 - Dopo aver stretto amicizia, l'utente avrà l’accesso ad una chat dove potrà scriversi o stare in chiamata con l’altro utente.
+  *  Requisti Funzionali Sistema<br>
+ <br>
+ -Fornire un sistema di chat. 
 </details>
 <img src="http://yuml.me/diagram/scruffy/usecase/[Utente]-(Accesso), (Accesso)<(Cerca utenti), (Cerca utenti)<(Richiesta amicizia),(Richiesta amicizia)<(Chat)">
 <details>
@@ -63,6 +78,9 @@ Requisiti applicazione:
  <br>
 - Saranno disponibili anche guide per superare un determinato livello o trovare un oggetto che ti potenzierà l’equipaggiamento.
 - Queste potranno essere caricate da chiunque riesca a superare/trovare e potranno essere valutate con un like o dislike.
+  *  Requisti Funzionali Sistema<br>
+ <br>
+ -Gestire la ricerca, la valutazione e il caricamento dei tutorial.
 </details>
 <img src="http://yuml.me/diagram/scruffy/usecase/[Utente]-(Accesso), (Accesso)<(Cerca giochi), (Cerca giochi)>(Tutorial)" >
 <details>
@@ -70,6 +88,9 @@ Requisiti applicazione:
  *  Requisti Funzionali Utente<br>
  <br>
 - Per quanto riguarda i giochi multiplayer come Fortnite, Rainbow Six Siege, Apex… saranno disponibili delle “lezioni” sotto forma di video oppure “dal vivo” per aiutare l’utente ad acquisire più abilità.
+  *  Requisti Funzionali Sistema<br>
+ <br>
+ -Gestire il caricamento di "lezioni" affidabili sui videogiochi.
 </details>
 <img src="http://yuml.me/diagram/scruffy/usecase/[Utente]-(Accesso), (Accesso)<(Cerca giochi), (Cerca giochi)>(Coaching)" >
 <details>
@@ -77,7 +98,10 @@ Requisiti applicazione:
  *  Requisti Funzionali Utente<br>
  <br>
 - Ci sarà anche una sezione stile home page di Instagram dove ognuno potrà condividere foto/video di ciò che è riuscito a fare, come trickshot, speedrun… o semplicemente per chi vuole discutere su un gioco.
-- Inoltre ci sarà un tasto Spoiler che nasconderà le immagini/video che non sono ancora state raggiunte dall’utente (livelli non ancora superati, oggetti non scoperti…)
+- Inoltre ci sarà un tasto Spoiler che nasconderà le immagini/video che non sono ancora state raggiunte dall’utente (livelli non ancora superati, oggetti non scoperti…).
+  *  Requisti Funzionali Sistema<br>
+ <br>
+ -Fornire una "home page" stile Instagram dove gli utenti potranno condividere contenuti, vedere le storie, mettere like e lasciare un commento.
 </details>
 <img src="http://yuml.me/diagram/scruffy/usecase/[Utente]-(Accesso), (Accesso)>(Sezione di condivisione)" >
 <details>
@@ -86,5 +110,32 @@ Requisiti applicazione:
  <br>
 - Ci sarà un abbonameno Premium, che permetterà di sbloccare più funzionalità.
 - Questo abbonamento sarà sia mensile, che annuale, con la possibilità di selezionare quanti mesi o anni si vuole.
+  *  Requisti Funzionali Sistema<br>
+ <br>
+ -Gestione acquisto di abbonamenti
 </details>
 <img src="http://yuml.me/diagram/scruffy/usecase/[Utente]-(Accesso),(Accesso)<(Premium),(Premium)>(Aggiungi carta),(Premium)>(Scegli il piano),(Premium)>(Paga),[Banca]-(Elaborazione),(Elaborazione)>(Invia risultato di conferma),[Sistema GXL]-(Attiva Premium)" >
+<details>
+<summary>Requisiti Non Funzionali Sistema</summary>
+ <br>
+ <details>
+<summary>Sicurezza:</summary>
+-Il sistema deve garantire la sicurezza dei dati dell'utente, compresi i dati dell'account e le informazioni del gioco.
+</details>
+<details>
+<summary>Performance:</summary>
+-Il sistema deve essere reattivo e garantire tempi di risposta rapidi.
+</details>
+<details>
+<summary>Scalabilità:</summary>
+-Il sistema deve essere in grado di gestire un numero crescente di utenti e dati di gioco.
+</details>
+<details>
+<summary>Usabilità:</summary>
+L'applicazione deve essere intuitiva e facile da usare per gli utenti.
+</details>
+</details>
+<summary>Disponibilità:</summary>
+Il sistema deve essere disponibile e accessibile in modo affidabile.
+</details>
+</details>
