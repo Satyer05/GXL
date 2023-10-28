@@ -5,9 +5,9 @@ I problemi che mi sono posto sono i più comuni e che mi ritrovo ad affrontare a
 Requisiti applicazione:
 <details>
 <summary>Registrazione:</summary>
-  <p>Requisiti Funzionali Utente</p>
-  - Gli utenti, appena scaricata l’applicazione, si troveranno la classica schermata di registrazione dove inseriranno la propria email e password, con possibilità di cambiarla in caso di dimenticanza.<br>
-  - Ci sarà la possibilità di attivare anche l’autenticazione a due fattori, ovvero aggiungere una sicurezza in più per proteggere il tuo account.
+  *  Requisti Funzionali Utente
+- Gli utenti, appena scaricata l’applicazione, si troveranno la classica schermata di registrazione dove inseriranno la propria email e password, con possibilità di cambiarla in caso di dimenticanza.<br>
+- Ci sarà la possibilità di attivare anche l’autenticazione a due fattori, ovvero aggiungere una sicurezza in più per proteggere il tuo account.
 </details>     
 <img src="http://yuml.me/diagram/scruffy/usecase/[Utente]-(Accesso), (Accesso)<(Autenticazione a due fattori)"> 
 <details>
