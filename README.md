@@ -1,4 +1,4 @@
-'p0# GXL
+# GXL
 La mia applicazione si basa sul mondo videoludico; un'applicazione che contiene tutte le informazioni dei videogiochi più famosi ed i loro problemi!
 I problemi che mi sono posto sono i più comuni e che mi ritrovo ad affrontare anche io: non riuscire a superare un livello, non trovare un determinato oggetto per migliorare il livello/l'equipaggiamento, non avere amici online con cui giocare, non sapere le statistiche dei giocatori,non riuscire a migliorare.<br>
 <br>
