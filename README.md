@@ -120,41 +120,51 @@ Requisiti applicazione:
  <br>
  <details>
 <summary>Sicurezza:</summary>
+   <br>
 -Il sistema deve garantire la sicurezza dei dati dell'utente, compresi i dati dell'account e le informazioni del gioco.
 </details>
 <details>
 <summary>Performance:</summary>
+  <br>
 -Il sistema deve essere reattivo e garantire tempi di risposta rapidi.
 </details>
 <details>
 <summary>Scalabilità:</summary>
+  <br>
 -Il sistema deve essere in grado di gestire un numero crescente di utenti e dati di gioco.
 </details>
 <details>
 <summary>Usabilità:</summary>
+  <br>
 -L'applicazione deve essere intuitiva e facile da usare per gli utenti.
 </details>
 <details>
 <summary>Disponibilità:</summary>
+  <br>
 -Il sistema deve essere disponibile e accessibile in modo affidabile.
 </details>
 </details>
+<details>
 <summary>Requisiti Dominio</summary>
  <br>
  <details>
 <summary>Giochi Multiplayer e Singleplayer:</summary>
+   <br>
 -L'applicazione copre sia giochi multiplayer che singleplayer.
 </details>
 <details>
 <summary>Comunità di Giocatori:</summary>
+  <br>
 -L'applicazione crea una comunità in cui gli utenti possono interagire, scambiare esperienze di gioco e aiutarsi reciprocamente.
 </details>
 <details>
 <summary>Risorse di Gioco:</summary>
+  <br>
 -L'applicazione fornisce informazioni sui giochi, guide e risorse educative per migliorare le abilità di gioco.
 </details>
 <details>
 <summary>Abbonamenti Premium:</summary>
+  <br>
 -L'applicazione offre opzioni di abbonamento premium per gli utenti interessati a funzionalità aggiuntive.
 </details>
 </details>
