@@ -168,10 +168,8 @@ Requisiti applicazione:
 -L'applicazione offre opzioni di abbonamento premium per gli utenti interessati a funzionalità aggiuntive.
 </details>
 </details>
-<details>
-<summary>Work structure:</summary>
-  <br>
-1.1 Interfaccia 50     1.2 Integrazione 40   1.3 Gestione progetto 10
+
+1.1 Interfaccia 50     1.2 Integrazione 40   1.3 Gestione progetto 10 <br>
 1.1.1 Pagina login     1.2.1 Ideazione 10
 1.1.2 Pagina profilo   1.2.1 Ideazione 10
 1.1.3 pagina iniziale  1.2.2 Progettazione 10
@@ -180,7 +178,7 @@ Requisiti applicazione:
 1.1.6 Pagina chat 
 1.1.7 Pagina "social"
 
-</details>
+
 
 
 
