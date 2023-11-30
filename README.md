@@ -168,3 +168,15 @@ Requisiti applicazione:
 -L'applicazione offre opzioni di abbonamento premium per gli utenti interessati a funzionalità aggiuntive.
 </details>
 </details>
+1.1 Interfaccia 50     1.2 Integrazione 40   1.3 Gestione progetto 10
+1.1.1 Pagina login     1.2.1 Ideazione 10
+1.1.2 Pagina profilo   1.2.1 Ideazione 10
+1.1.3 pagina iniziale  1.2.2 Progettazione 10
+1.1.4 Pagina tutorial  1.2.3 Montaggio 10
+1.1.5 Pagina coaching  1.2.4 Collaudo 10
+1.1.6 Pagina chat 
+1.1.7 Pagina "social"
+
+
+
+
