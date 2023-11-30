@@ -175,7 +175,7 @@ Requisiti applicazione:
 1.1.3 pagina iniziale  1.2.2 Progettazione 10 <br>
 1.1.4 Pagina tutorial  1.2.3 Montaggio 10 <br>
 1.1.5 Pagina coaching  1.2.4 Collaudo 10<br>
-1.1.6 Pagina chat 
+1.1.6 Pagina chat <br>
 1.1.7 Pagina "social"
 
 
