@@ -179,7 +179,74 @@ Requisiti applicazione:
 1.1.7 Pagina "social"
 
 
+USER STORY:
 
+          Utente:
+
+Registrazione e Accesso:
+
+Come utente, voglio poter registrare un account inserendo la mia email e una password.
+Come utente, voglio poter effettuare l'accesso usando le credenziali previamente inserite.
+Come utente, voglio poter reimpostare la mia password in caso di dimenticanza.
+Profilo Utente:
+
+Come utente, voglio poter personalizzare il mio profilo con informazioni come nome, immagine del profilo e stato online/assente/offline.
+Come utente, voglio poter visualizzare le statistiche dei miei giochi, inclusi quelli online e offline.
+Come utente, voglio poter cercare altri utenti e visualizzare le loro statistiche di gioco.
+Collegamento degli Account:
+
+Come utente, voglio poter collegare i miei account di gioco (PlayStation, Fortnite, Xbox) per condividere la mia attività con altri utenti.
+Come utente, voglio poter selezionare e fissare i giochi di mio interesse per monitorare l'attività di altri utenti che stanno giocando a quei titoli.
+Come utente, voglio poter inviare richieste d'amicizia e comunicare con altri utenti tramite una chat.
+Informazioni di Gioco e Condivisioni:
+
+Come utente, voglio accedere a informazioni dettagliate su un gioco specifico, come requisiti di sistema e dimensioni di installazione.
+Come utente, voglio poter condividere foto/video delle mie realizzazioni di gioco e partecipare a discussioni sulla piattaforma.
+Abbonamenti Premium:
+
+Come utente, voglio poter sottoscrivere un abbonamento premium mensile o annuale per accedere a funzionalità aggiuntive.
+Videogiocatore:
+
+Selezione dei Giochi e Guide:
+
+Come videogiocatore, voglio poter selezionare e fissare i giochi preferiti per monitorare l'attività degli altri utenti.
+Come videogiocatore, voglio poter trovare e valutare guide create da altri giocatori per superare livelli o trovare oggetti nei giochi.
+Informazioni Utente e Coaching:
+
+Come videogiocatore, voglio poter cercare altri utenti e visualizzare le loro statistiche di gioco.
+Come videogiocatore, voglio accedere a lezioni o video dal vivo per migliorare le mie abilità nei giochi multiplayer.
+Condivisioni e Comunità di Giocatori:
+
+Come videogiocatore, voglio poter condividere foto/video delle mie realizzazioni di gioco sulla piattaforma.
+Come videogiocatore, voglio partecipare a discussioni e interagire con altri utenti, creando una comunità di giocatori.
+Sviluppatore:
+
+Gestione Profilo e Collegamento degli Account:
+
+Come sviluppatore, voglio implementare la gestione delle modifiche apportate al profilo.
+Come sviluppatore, voglio implementare il collegamento degli account di gioco e la sincronizzazione.
+Chat e Sistema di Valutazione:
+
+Come sviluppatore, voglio implementare il sistema di chat tra utenti.
+Come sviluppatore, voglio implementare un sistema di valutazione per le guide e le lezioni caricate dagli utenti.
+Coaching e Condivisioni:
+
+Come sviluppatore, voglio implementare il caricamento di lezioni affidabili sui videogiochi.
+Come sviluppatore, voglio implementare la sezione di condivisioni stile home page di Instagram.
+Gestore della Sicurezza:
+
+Sicurezza e Autenticazione a Due Fattori:
+
+Come gestore della sicurezza, voglio garantire la sicurezza dei dati dell'utente e delle informazioni di gioco.
+Come gestore della sicurezza, voglio implementare l'autenticazione a due fattori per aumentare la sicurezza degli account.
+Gestione Accesso e Protezione Dati:
+
+Come gestore della sicurezza, voglio implementare la gestione dell'accesso, registrazione, reset password e autenticazione a due fattori.
+Come gestore della sicurezza, voglio garantire la protezione dei dati sensibili degli utenti.
+Sicurezza del Sistema e Abbonamenti:
+
+Come gestore della sicurezza, voglio garantire la sicurezza del sistema, compresi i dati dell'account e le informazioni del gioco.
+Come gestore della sicurezza, voglio implementare la gestione degli acquisti e della sicurezza per gli abbonamenti premium.
 
 
 
