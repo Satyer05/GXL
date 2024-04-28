@@ -248,5 +248,26 @@ Sicurezza del Sistema e Abbonamenti:
 Come gestore della sicurezza, voglio garantire la sicurezza del sistema, compresi i dati dell'account e le informazioni del gioco.
 Come gestore della sicurezza, voglio implementare la gestione degli acquisti e della sicurezza per gli abbonamenti premium.
 
-
+PIVOT DEL PROGETTO
+Sondaggi e Votazioni:
+Aggiungi la possibilità per gli utenti di creare sondaggi su argomenti di interesse legati ai videogiochi.
+Consentire agli utenti di votare sui sondaggi creati da altri utenti.
+Visualizza i risultati dei sondaggi in tempo reale e offre funzionalità per analizzare i risultati.
+Organizzazione di Tornei:
+Implementa una sezione dedicata alla creazione e all'organizzazione di tornei all'interno dell'applicazione.
+Gli utenti possono creare tornei su giochi specifici, definire regole e modalità di partecipazione.
+Fornisci un sistema di gestione dei tornei che includa la registrazione dei partecipanti, la creazione di un tabellone e la gestione delle partite.
+Collaborazione tra Giocatori:
+Integra funzionalità per la creazione di gruppi o squadre di gioco all'interno dell'applicazione.
+Consentire agli utenti di unirsi a gruppi esistenti o crearne di nuovi, con la possibilità di definire obiettivi comuni.
+Fornire strumenti di comunicazione e coordinamento per i membri del gruppo, come chat di gruppo e schede di attività condivise.
+Premi e Riconoscimenti:
+Introduce un sistema di premi e riconoscimenti per gli utenti che partecipano attivamente alle funzionalità sociali dell'applicazione.
+Assegna premi agli utenti che creano sondaggi popolari, organizzano tornei di successo o raggiungono obiettivi collaborativi con il loro gruppo.
+Integrazione con Social Media Esterni:
+Offri opzioni per condividere contenuti dall'applicazione su piattaforme di social media esterne, ampliando così la visibilità e l'interazione con la community di giocatori.
+Implementa funzionalità per invitare amici da altri social media all'interno dell'applicazione GXL.
+Moderazione e Gestione dei Contenuti:
+Crea strumenti per la moderazione dei contenuti generati dagli utenti, come segnalazione di contenuti inappropriati o abusi.
+Nomina moderatori all'interno della community per gestire segnalazioni e garantire un ambiente positivo e sicuro per tutti gli utenti.
 
