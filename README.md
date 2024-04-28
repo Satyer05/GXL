@@ -248,7 +248,7 @@ Sicurezza del Sistema e Abbonamenti:
 Come gestore della sicurezza, voglio garantire la sicurezza del sistema, compresi i dati dell'account e le informazioni del gioco.
 Come gestore della sicurezza, voglio implementare la gestione degli acquisti e della sicurezza per gli abbonamenti premium.
 
-PIVOT DEL PROGETTO
+PIVOT DEL PROGETTO<br>
 Sondaggi e Votazioni:
 Aggiungi la possibilità per gli utenti di creare sondaggi su argomenti di interesse legati ai videogiochi.
 Consentire agli utenti di votare sui sondaggi creati da altri utenti.
@@ -269,5 +269,8 @@ Offri opzioni per condividere contenuti dall'applicazione su piattaforme di soci
 Implementa funzionalità per invitare amici da altri social media all'interno dell'applicazione GXL.
 Moderazione e Gestione dei Contenuti:
 Crea strumenti per la moderazione dei contenuti generati dagli utenti, come segnalazione di contenuti inappropriati o abusi.
-Nomina moderatori all'interno della community per gestire segnalazioni e garantire un ambiente positivo e sicuro per tutti gli utenti.
+Nomina moderatori all'interno della community per gestire segnalazioni e garantire un ambiente positivo e sicuro per tutti gli utenti.<br>
+MULTITENANCY<br>
+Potrei vendere la mia applicazione alle aziende che offrono corsi e formazioni su giochi e che quindi potrebbero essere interessate ad integrare GXL come strumento di supporto per gli studenti. GXL potrebbe aiutare gli studenti a trovare risorse educative, a seguire lezioni di coaching e a interagire con altri studenti appassionati di videogiochi.
+Potrei rivolgermi anche a siti web specializzati nell'offrire informazioni e recensioni sui videogiochi, dato che potrebbero integrare GXL come una risorsa aggiuntiva per i loro lettori. GXL potrebbe fornire statistiche di gioco, guide e altre informazioni utili per gli utenti che visitano questi siti.
 
